@@ -1,0 +1,32 @@
+{
+  "name": "Sembang_Clipboard",
+  "components": 12,
+  "triangles": 23696,
+  "bounds": [
+    [
+      -1.8,
+      -2.65,
+      -0.1265
+    ],
+    [
+      1.8,
+      2.96,
+      0.195
+    ]
+  ],
+  "all_components_closed": true,
+  "parts": [
+    "Board_Panel",
+    "Clip_Body",
+    "Clip_Eyelet_Opening",
+    "Clip_Eyelet_Ring",
+    "Clip_Jaw",
+    "Clip_Rivet_back_1",
+    "Clip_Rivet_back_2",
+    "Clip_Rivet_front_1",
+    "Clip_Rivet_front_2",
+    "Clip_Slit",
+    "Paper_Sheet",
+    "Paper_Under_Sheet"
+  ]
+}

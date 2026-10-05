@@ -1,0 +1,57 @@
+{
+  "name": "Sembang_Clapperboard",
+  "components": 37,
+  "triangles": 35068,
+  "bounds": [
+    [
+      -2.2362990113772336,
+      -2.28,
+      -0.23125
+    ],
+    [
+      2.2,
+      2.144179374403458,
+      0.23125
+    ]
+  ],
+  "all_components_closed": true,
+  "parts": [
+    "Clapper_Arm_Stick",
+    "Clapper_Arm_Stripe_back_1",
+    "Clapper_Arm_Stripe_back_2",
+    "Clapper_Arm_Stripe_back_3",
+    "Clapper_Arm_Stripe_back_4",
+    "Clapper_Arm_Stripe_back_5",
+    "Clapper_Arm_Stripe_back_6",
+    "Clapper_Arm_Stripe_back_7",
+    "Clapper_Arm_Stripe_front_1",
+    "Clapper_Arm_Stripe_front_2",
+    "Clapper_Arm_Stripe_front_3",
+    "Clapper_Arm_Stripe_front_4",
+    "Clapper_Arm_Stripe_front_5",
+    "Clapper_Arm_Stripe_front_6",
+    "Clapper_Arm_Stripe_front_7",
+    "Fixed_Stick",
+    "Fixed_Stripe_back_1",
+    "Fixed_Stripe_back_2",
+    "Fixed_Stripe_back_3",
+    "Fixed_Stripe_back_4",
+    "Fixed_Stripe_back_5",
+    "Fixed_Stripe_back_6",
+    "Fixed_Stripe_back_7",
+    "Fixed_Stripe_front_1",
+    "Fixed_Stripe_front_2",
+    "Fixed_Stripe_front_3",
+    "Fixed_Stripe_front_4",
+    "Fixed_Stripe_front_5",
+    "Fixed_Stripe_front_6",
+    "Fixed_Stripe_front_7",
+    "Hinge_Block",
+    "Hinge_Rivet_back_1",
+    "Hinge_Rivet_back_2",
+    "Hinge_Rivet_front_1",
+    "Hinge_Rivet_front_2",
+    "Slate_Body",
+    "Slate_Face"
+  ]
+}

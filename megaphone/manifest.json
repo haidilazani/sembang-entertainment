@@ -1,0 +1,51 @@
+{
+  "name": "Sembang_Megaphone",
+  "components": 31,
+  "triangles": 146334,
+  "bounds": [
+    [
+      -2.58,
+      -2.8781557455043174,
+      -1.9761182248391487
+    ],
+    [
+      2.4,
+      1.9761182248391487,
+      1.9761182248391487
+    ]
+  ],
+  "all_components_closed": true,
+  "parts": [
+    "Bell_Liner",
+    "Bell_Ring",
+    "Button_Cap",
+    "Button_Ring",
+    "Collar_Ring",
+    "Driver_Tube",
+    "Emblem_Highlight_1",
+    "Emblem_Highlight_2",
+    "Emblem_Highlight_3",
+    "Emblem_Highlight_4",
+    "Emblem_Outline",
+    "Emblem_S",
+    "Emblem_Star",
+    "Grip_Band_Back",
+    "Grip_Band_Front",
+    "Grip_Core",
+    "Grip_Panel_Back",
+    "Grip_Panel_Front",
+    "Grip_Pin_back",
+    "Grip_Pin_front",
+    "Horn_Body",
+    "Rear_Cap",
+    "Rear_Vent_1",
+    "Rear_Vent_2",
+    "Rear_Vent_3",
+    "Rear_Vent_4",
+    "Rear_Vent_5",
+    "Rear_Vent_6",
+    "Rear_Vent_7",
+    "Trigger",
+    "Trigger_Housing"
+  ]
+}
