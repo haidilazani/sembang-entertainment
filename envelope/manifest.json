@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sembang_Cream_Envelope",
+    "components": 12,
+    "triangles": 51004,
+    "bounds": [
+      [
+        -3.2,
+        -2.1,
+        -0.075
+      ],
+      [
+        3.2,
+        2.1,
+        0.3420065934337765
+      ]
+    ],
+    "all_components_closed": true
+  },
+  {
+    "name": "Sembang_Wax_Seal",
+    "components": 7,
+    "triangles": 37296,
+    "bounds": [
+      [
+        -0.7674256621360332,
+        -0.7481305845646077,
+        -0.016338460961508372
+      ],
+      [
+        0.7689775767355489,
+        0.7821212724440021,
+        0.15200659343377648
+      ]
+    ],
+    "all_components_closed": true
+  }
+]

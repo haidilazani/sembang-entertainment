@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "01_raspberry_cream",
+    "fill": "raspberry",
+    "outline": "cream",
+    "highlight": "cream",
+    "file": "models/01_raspberry_cream/01_raspberry_cream.glb",
+    "bounds": [
+      [
+        -1.3969884425399628,
+        -1.5008228579097895,
+        -0.32
+      ],
+      [
+        1.3969143963713282,
+        1.5008228579097898,
+        0.32
+      ]
+    ],
+    "meshes": 14,
+    "triangles": 84052,
+    "all_parts_watertight": true
+  },
+  {
+    "id": 2,
+    "name": "02_blush_raspberry",
+    "fill": "blush",
+    "outline": "raspberry",
+    "highlight": "cream",
+    "file": "models/02_blush_raspberry/02_blush_raspberry.glb",
+    "bounds": [
+      [
+        -1.3969884425399628,
+        -1.5008228579097895,
+        -0.32
+      ],
+      [
+        1.3961994107050912,
+        1.5008228579097898,
+        0.32
+      ]
+    ],
+    "meshes": 14,
+    "triangles": 85228,
+    "all_parts_watertight": true
+  },
+  {
+    "id": 3,
+    "name": "03_cream_raspberry",
+    "fill": "cream",
+    "outline": "raspberry",
+    "highlight": "raspberry",
+    "file": "models/03_cream_raspberry/03_cream_raspberry.glb",
+    "bounds": [
+      [
+        -1.4027611348476552,
+        -1.5008228579097902,
+        -0.32
+      ],
+      [
+        1.4019721030127834,
+        1.5008228579097898,
+        0.32
+      ]
+    ],
+    "meshes": 14,
+    "triangles": 83376,
+    "all_parts_watertight": true
+  },
+  {
+    "id": 4,
+    "name": "04_raspberry_cream",
+    "fill": "raspberry",
+    "outline": "cream",
+    "highlight": "cream",
+    "file": "models/04_raspberry_cream/04_raspberry_cream.glb",
+    "bounds": [
+      [
+        -1.4023822203103873,
+        -1.5008225600638812,
+        -0.32
+      ],
+      [
+        1.395198955144812,
+        1.5008225600638814,
+        0.32
+      ]
+    ],
+    "meshes": 14,
+    "triangles": 83184,
+    "all_parts_watertight": true
+  }
+]

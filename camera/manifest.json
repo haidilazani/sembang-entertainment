@@ -1,0 +1,427 @@
+{
+  "name": "Unbranded compact cinema camera",
+  "file": "Cinema_Camera.glb",
+  "units": "metres",
+  "body_width_m": 0.13,
+  "screen": {
+    "node": "Screen_Placeholder",
+    "material": "Screen_Content",
+    "assembly_node": "LCD_Assembly",
+    "uv": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "aspect_ratio": "16:9",
+    "size_m": [
+      0.075,
+      0.0421875
+    ]
+  },
+  "components": [
+    {
+      "name": "Camera_body",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Front_body_plate",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Hand_grip",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Grip_top_cap",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Grip_front_pad",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Rear_control_plate",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Rear_LCD_recess",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Rear_LCD_inner",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Lens_mount_flange",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Lens_mount_gasket",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Lens_rear_barrel",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Zoom_ring",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Lens_middle_barrel",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Focus_ring",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Lens_front_barrel",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Filter_rim",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Glass_retaining_ring",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Inner_optical_ring",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Zoom_knurling",
+      "triangles": 2112,
+      "closed": true
+    },
+    {
+      "name": "Focus_knurling",
+      "triangles": 2112,
+      "closed": true
+    },
+    {
+      "name": "Lens_front_glass",
+      "triangles": 7680,
+      "closed": true
+    },
+    {
+      "name": "Optical_inner_disc",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Optical_inner_reflection",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Lens_switch_base",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Lens_switch",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Lens_release_button",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Top_deck",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Top_socket_-0.49_-0.18",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Top_socket_well_-0.49_-0.18",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Top_socket_0.11_-0.21",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Top_socket_well_0.11_-0.21",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Top_socket_-0.45_0.12",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Top_socket_well_-0.45_0.12",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Accessory_shoe_base",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Accessory_shoe_rail_-0.184",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Accessory_shoe_rail_0.024",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Top_control_dial",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Record_button_rim",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Record_button",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Shutter_button",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Top_function_button_0",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Top_function_button_1",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Top_function_button_2",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Front_tally_light",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Rear_tally_light",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Rear_button_0",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Rear_button_1",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Rear_button_2",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Rear_button_3",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Rear_button_4",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Rear_control_wheel",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Rear_wheel_centre",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Wheel_direction_0",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Wheel_direction_1",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Wheel_direction_2",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Wheel_direction_3",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Rear_joystick",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "Cooling_slot_0",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Cooling_slot_1",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Cooling_slot_2",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Cooling_slot_3",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Cooling_slot_4",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Cooling_slot_5",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Cooling_slot_6",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Cooling_slot_7",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Cooling_slot_8",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Port_door",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Port_door_tab",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Card_door",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Base_plate",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Tripod_socket",
+      "triangles": 1536,
+      "closed": true
+    },
+    {
+      "name": "Tripod_socket_well",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "LCD_hinge_bracket",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "LCD_hinge_pin",
+      "triangles": 256,
+      "closed": true
+    },
+    {
+      "name": "LCD_housing",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "LCD_bezel",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "LCD_rear_cover",
+      "triangles": 780,
+      "closed": true
+    },
+    {
+      "name": "Screen_Placeholder",
+      "triangles": 2,
+      "closed": false
+    }
+  ],
+  "bounds": [
+    [
+      -0.15600000000000003,
+      -0.0422,
+      -0.044950000000000004
+    ],
+    [
+      0.06645000000000001,
+      0.04705000000000001,
+      0.1051
+    ]
+  ],
+  "triangles": 70718
+}

@@ -1,0 +1,17 @@
+dataclasses-json==0.6.7
+Deprecated==3.0.0
+mapbox_earcut==2.1.0
+marshmallow==3.26.2
+mypy_extensions==1.1.0
+networkx==3.7
+numpy==2.5.3
+opencv-python-headless==5.0.0.93
+packaging==26.3
+pillow==12.3.0
+pygltflib==1.16.5
+scipy==1.18.1
+shapely==2.1.2
+trimesh==5.1.1
+typing-inspect==0.9.0
+typing_extensions==4.16.0
+wrapt==2.5.0

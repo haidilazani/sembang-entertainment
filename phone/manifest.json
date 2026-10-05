@@ -1,0 +1,252 @@
+{
+  "name": "Original unbranded burgundy flagship phone mockup",
+  "file": "Burgundy_Flagship_Phone.glb",
+  "units": "metres",
+  "screen": {
+    "node": "Screen_Placeholder",
+    "material": "Matte_Gray_Screen",
+    "uv": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "aspect_ratio": "19.5:9",
+    "size_m": [
+      0.07445,
+      0.1601
+    ],
+    "default": "neutral matte gray"
+  },
+  "branding": "none",
+  "components": [
+    {
+      "name": "Titanium_Frame",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Front_Bezel",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Rear_Bezel",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Burgundy_Back_Glass",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Screen_Placeholder",
+      "triangles": 2,
+      "closed": false
+    },
+    {
+      "name": "Camera_Island",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Camera_Island_Inset",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Camera_1_Outer_Rim",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Camera_1_Polished_Ring",
+      "triangles": 3072,
+      "closed": true
+    },
+    {
+      "name": "Camera_1_Lens_Glass",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Camera_1_Optical_Core",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Camera_1_Glass_Reflection",
+      "triangles": 4224,
+      "closed": true
+    },
+    {
+      "name": "Camera_2_Outer_Rim",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Camera_2_Polished_Ring",
+      "triangles": 3072,
+      "closed": true
+    },
+    {
+      "name": "Camera_2_Lens_Glass",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Camera_2_Optical_Core",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Camera_2_Glass_Reflection",
+      "triangles": 4224,
+      "closed": true
+    },
+    {
+      "name": "Camera_3_Outer_Rim",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Camera_3_Polished_Ring",
+      "triangles": 3072,
+      "closed": true
+    },
+    {
+      "name": "Camera_3_Lens_Glass",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Camera_3_Optical_Core",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Camera_3_Glass_Reflection",
+      "triangles": 4224,
+      "closed": true
+    },
+    {
+      "name": "Camera_Flash_Rim",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Camera_Flash_Diffuser",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Camera_LiDAR",
+      "triangles": 384,
+      "closed": true
+    },
+    {
+      "name": "Action_Button",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Volume_Up",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Volume_Down",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Capture_Button",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "USB_C_Recess",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Bottom_Grille_L_1",
+      "triangles": 72,
+      "closed": true
+    },
+    {
+      "name": "Bottom_Grille_L_2",
+      "triangles": 72,
+      "closed": true
+    },
+    {
+      "name": "Bottom_Grille_L_3",
+      "triangles": 72,
+      "closed": true
+    },
+    {
+      "name": "Bottom_Grille_L_4",
+      "triangles": 72,
+      "closed": true
+    },
+    {
+      "name": "Bottom_Grille_L_5",
+      "triangles": 72,
+      "closed": true
+    },
+    {
+      "name": "Bottom_Grille_R_1",
+      "triangles": 72,
+      "closed": true
+    },
+    {
+      "name": "Bottom_Grille_R_2",
+      "triangles": 72,
+      "closed": true
+    },
+    {
+      "name": "Bottom_Grille_R_3",
+      "triangles": 72,
+      "closed": true
+    },
+    {
+      "name": "Bottom_Grille_R_4",
+      "triangles": 72,
+      "closed": true
+    },
+    {
+      "name": "Bottom_Grille_R_5",
+      "triangles": 72,
+      "closed": true
+    },
+    {
+      "name": "Antenna_Divider_-26.0",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Antenna_Divider_26.0",
+      "triangles": 1932,
+      "closed": true
+    },
+    {
+      "name": "Top_Microphone",
+      "triangles": 384,
+      "closed": true
+    }
+  ],
+  "bounds": [
+    [
+      -0.040025000000000005,
+      -0.08318,
+      -0.00825
+    ],
+    [
+      0.03996,
+      0.08364999999999999,
+      0.00431
+    ]
+  ],
+  "triangles": 52718
+}
